@@ -1,5 +1,6 @@
 # dCp_predictor
 This program analyzes wing section dCp distributions, stores configurations and results to build a database, and generates normalized images for neural network training. It can recreate text data from images and verify image accuracy.
+
 Primero se debe generar la poblacion a analizar mediante el modulo parametros.py
 Luego al ejecutar el modulo CPWING.py se generara la base de datos compuesat de archivos txt que muestran la distribucion de dCp y imagenes normalizadas de las mismas
   El flujo de este calculo es:
